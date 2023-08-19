@@ -3,7 +3,9 @@
 ```markdown
 # Book Recommendation System using K-Nearest Neighbors (KNN)
 
-![Project Image](project_image.png) <!-- Replace with an image or GIF showcasing your project -->
+## Dataset
+You can download the dataset from [here](https://cdn.freecodecamp.org/project-data/books/book-crossings.zip).
+
 
 ## Overview
 
